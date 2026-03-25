@@ -1,0 +1,8 @@
+# Core Libraries for Data Analysis
+pandas==2.2.2
+
+# Data Visualization
+matplotlib==3.8.4
+
+# Optional (recommended for future improvements)
+numpy==1.26.4
